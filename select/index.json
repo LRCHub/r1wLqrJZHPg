@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Musician",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-07T04:26:49.236004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Victor Should Have Been a Jazz Musician",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/01_Victor_Should_Have_Been_a_Jazz_Musician_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Victor Should Have Been a Jazz Musician",
+      "artist": "Grace Jones",
+      "has_synced": true,
+      "path": "select/02_Victor_Should_Have_Been_a_Jazz_Musician_Grace_Jones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Musician",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/03_Musician_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Musician, Please Take Heed",
+      "artist": "God Help the Girl",
+      "has_synced": true,
+      "path": "select/04_Musician,_Please_Take_Heed_God_Help_the_Girl.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wandering Musician",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/05_Wandering_Musician_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Studio Musician - Live",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/06_Studio_Musician_-_Live_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Studio Musician",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/07_Studio_Musician_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Studio Musician  (Live at the Uris Theatre, New York, NY, 1977)",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/08_Studio_Musician_(Live_at_the_Uris_Theatre,_New_York,_NY,_1977)_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Musician, Pt. 1 (Live)",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/09_Musician,_Pt._1_(Live)_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Musician, Pt. 2 (Live)",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/10_Musician,_Pt._2_(Live)_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Musician",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/11_Musician_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bitter Musician",
+      "artist": "Schaffer The Darklord",
+      "has_synced": false,
+      "path": "select/12_Bitter_Musician_Schaffer_The_Darklord.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Musician",
+      "artist": "Return to Forever",
+      "has_synced": true,
+      "path": "select/13_The_Musician_Return_to_Forever.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Musician",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Musician_Porter_Robinson.txt"
+    }
+  ]
+}
