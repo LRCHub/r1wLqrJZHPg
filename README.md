@@ -1,0 +1,76 @@
+# Porter Robinson – Musician
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:18.72] No, I don't miss the feeling anymore
+[00:22.71] Yeah, I want something new to love
+[00:26.29] I was so nostalgic
+[00:28.51] But I'm fine without it
+[00:30.53] You don't really want what you think you want
+[00:34.57] No, I don't wanna lose it
+[00:36.95] This emotion
+[00:38.63] Yeah, I just wanna do everything
+[00:42.22] I get so excited
+[00:44.78] When I finally find it
+[00:46.79] It just gets brighter from now on
+[01:03.29] 
+[00:51.20] Then you sigh
+[00:54.63] You know I love you, so I think I should tell you, Porter
+[00:59.36] This life, well isn't it time that you grow up?
+[01:22.86] 
+[01:07.26] Oh, it's calling I just can't stop, I'm sorry
+[01:13.89] I can feel a new day dawning
+[01:16.32] I burn up, burn out
+[01:19.18] I shouldn't do this to myself
+[01:33.68] 
+[01:23.08] But sincerely
+[01:25.46] Can't you feel what I'm feeling?
+[01:29.33] I can see my life so clearly
+[01:32.33] I burn up, burn out
+[01:34.74] I shouldn't do this to myself
+[01:49.24] 
+[01:38.77] Well, this is why we do it
+[01:41.05] For the feeling
+[01:42.69] How do you do music?
+[01:45.08] Well, it's easy
+[01:46.63] You just face your fears
+[01:48.06] And you become your heroes
+[01:50.80] I don't understand why you're freaking out
+[02:11.80] 
+[01:54.77] Then they say
+[01:55.78] "Fine, well do what you need to
+[02:00.41] But I don't want to see you
+[02:02.67] Wasting your life
+[02:06.60] Isn't it time you get a job?"
+[02:21.10] 
+[02:11.25] Oh, it's calling
+[02:13.44] I just can't stop, I'm sorry
+[02:17.65] I can feel a new day dawning
+[02:20.47] I burn up, burn out
+[02:22.87] I shouldn't do this to myself
+[02:37.37] 
+[02:27.34] But sincerely
+[02:29.48] Can't you feel what I'm feeling?
+[02:33.47] I can see my life so clearly
+[02:36.18] I burn up, burn out
+[02:39.14] I shouldn't do this to myself
+[02:53.64] 
+[02:59.43] But sincerely
+[03:01.48] Can't you feel what I'm feeling?
+[03:05.96] I can see my life so clearly
+[03:09.12] And I know it doesn't last
+[03:11.47] But I don't mind at all anymore
+[03:26.97] 
+[03:15.12] Oh, it's calling
+[03:17.66] I just can't stop, I'm sorry
+[03:21.70] I can feel a new day dawning
+[03:24.37] I burn up, burn out
+[03:26.73] I shouldn't do this to myself
+[03:41.23] 
+[03:31.16] But sincerely
+[03:33.46] Can't you feel what I'm feeling?
+[03:37.61] I can see my life so clearly
+[03:40.39] I burn up, burn out
+[03:42.63] I shouldn't do this to myself
+```
